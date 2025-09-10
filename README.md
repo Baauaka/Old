@@ -1,3 +1,7 @@
 # SELAMAT DATANG SCRIPT FREE 
 
-git 
+git clone https://github.com/Baauaka/Old.git
+
+cd old
+
+python yuk.py
